@@ -55,7 +55,7 @@ const serviceIcons = [
 
 export default function HomePage() {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/1234567890", "_blank");
+    window.open("https://w.app/maximalapitonisadelamor", "_blank");
   };
 
   return (
