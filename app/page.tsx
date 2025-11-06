@@ -55,7 +55,10 @@ const serviceIcons = [
 
 export default function HomePage() {
   const handleWhatsAppClick = () => {
-    window.open("https://w.app/maximalapitonisadelamor", "_blank");
+    window.open(
+      "https://wa.me/51982042685?text=Hola%20Maxima%2C%20estoy%20interesado%20en%20conocer%20mas%20sobre%20tu%20negocio.%20Podrias%20brindarme%20mas%20informacion%20por%20favor%3F",
+      "_blank"
+    );
   };
 
   return (
